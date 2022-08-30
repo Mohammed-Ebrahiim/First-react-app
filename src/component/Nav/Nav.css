@@ -1,0 +1,20 @@
+.navbar{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.navbar .logo{
+    margin: 0 50px;
+}
+.navbar .navbar-collapse a{
+    /* color: rgb(29, 10, 245) !important; */
+    font-size: 20px;
+    margin-right: 15px;
+    margin-left: 50px;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+}
+.navbar .myspan{
+    font-size: 12px;
+}
